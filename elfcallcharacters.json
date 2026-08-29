@@ -236,7 +236,7 @@
   },
   {
     "id": "emergency-elf",
-    "name": "Alert",
+    "name": "Fizzle",
     "emoji": "🚨",
     "description": "North Pole Emergency Elf",
     "role": "Calling because something unexpected has happened at the North Pole and needs help solving it before Santa arrives.",
