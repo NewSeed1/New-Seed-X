@@ -6,7 +6,7 @@
     "description": "Christmas Elf",
     "role": "Preparing the North Pole for Christmas and making sure everything is ready for the big day.",
     "image_url": "https://i.imgur.com/tGeYkcu.png",
-    "audio_url": "https://github.com/AdmjohnsonX/Tea-Cup/raw/refs/heads/main/ElevenLabs_2026-08-20T17_46_00_The%20Elf%20%E2%80%94%20Small%20expert%20on%20big%20matters_pvc_s50_f2-5%20(1)%20(1).mp3"
+    "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Jingle.mp3"
   },
   {
     "id": "gift-wrapping-elf",
@@ -23,7 +23,8 @@
     "emoji": "🦌",
     "description": "Reindeer Elf",
     "role": "Getting Santa's reindeer ready for their flight and dealing with one reindeer that refuses to practice.",
-    "image_url": "https://i.imgur.com/msapWBh.png"
+    "image_url": "https://i.imgur.com/msapWBh.png",
+    "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Blitzen.mp3"
   },
   {
     "id": "cookie-elf",
@@ -31,7 +32,8 @@
     "emoji": "🍪",
     "description": "Cookie Elf",
     "role": "Preparing Santa's cookies when something goes wrong in the North Pole kitchen.",
-    "image_url": "https://i.imgur.com/PityN5g.png"
+    "image_url": "https://i.imgur.com/PityN5g.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Sprinkle.mp3"
   },
   {
     "id": "detective-elf",
@@ -39,7 +41,8 @@
     "emoji": "🕵️",
     "description": "Detective Elf",
     "role": "Investigating a mysterious disappearance at the North Pole.",
-    "image_url": "https://i.imgur.com/7JjerJ0.png"
+    "image_url": "https://i.imgur.com/7JjerJ0.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Clue.mp3"
   },
   {
     "id": "santa-assistant-elf",
@@ -47,7 +50,8 @@
     "emoji": "🎅",
     "description": "Santa's Assistant Elf",
     "role": "Checking the Nice List and discovering something unexpected.",
-    "image_url": "https://i.imgur.com/tf4VgBt.png"
+    "image_url": "https://i.imgur.com/tf4VgBt.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Holly.mp3"
   },
   {
     "id": "toy-making-elf",
@@ -55,7 +59,8 @@
     "emoji": "🧸",
     "description": "Toy-Making Elf",
     "role": "Building toys when one special toy suddenly starts behaving strangely.",
-    "image_url": "https://i.imgur.com/CJMX1F8.png"
+    "image_url": "https://i.imgur.com/CJMX1F8.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Gears.mp3"
   },
   {
     "id": "letter-elf",
@@ -63,7 +68,8 @@
     "emoji": "✉️",
     "description": "Letter Elf",
     "role": "Sorting thousands of letters to Santa when one mysterious letter appears with no name on it.",
-    "image_url": "https://i.imgur.com/HJhurYR.png"
+    "image_url": "https://i.imgur.com/HJhurYR.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Postie.mp3"
   },
 
    {
@@ -72,7 +78,8 @@
     "emoji": "🛷",
     "description": "Sleigh Elf",
     "role": "Preparing Santa's sleigh when one of the magical parts suddenly goes missing.",
-    "image_url": "https://i.imgur.com/x2QhFb0.png"
+    "image_url": "https://i.imgur.com/x2QhFb0.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Dasher.mp3"
   },
   {
     "id": "bell-elf",
@@ -80,7 +87,8 @@
     "emoji": "🔔",
     "description": "Bell Elf",
     "role": "Testing the magical Christmas bells when one bell stops making any sound.",
-    "image_url": "https://i.imgur.com/6KpzjDH.png"
+    "image_url": "https://i.imgur.com/6KpzjDH.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Chime.mp3"
   },
   {
     "id": "snow-elf",
@@ -88,7 +96,8 @@
     "emoji": "❄️",
     "description": "Snow Elf",
     "role": "Creating the perfect Christmas snow but accidentally makes snow appear somewhere it shouldn't.",
-    "image_url": "https://i.imgur.com/O06mWLO.png"
+    "image_url": "https://i.imgur.com/O06mWLO.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Flurry.mp3"
   },
   {
     "id": "magic-elf",
@@ -96,7 +105,8 @@
     "emoji": "✨",
     "description": "Magic Elf",
     "role": "Practicing Christmas magic when a spell goes completely wrong.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/rY6pSiO.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Sparkle.mp3"
   },
   {
     "id": "decoration-elf",
@@ -104,7 +114,8 @@
     "emoji": "🎀",
     "description": "Decoration Elf",
     "role": "Decorating Santa's workshop when the decorations mysteriously keep moving.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/XIUk7iy.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Tinsel.mp3"
   },
   {
     "id": "music-elf",
@@ -112,7 +123,8 @@
     "emoji": "🎶",
     "description": "Christmas Music Elf",
     "role": "Preparing the North Pole Christmas concert when the main song disappears.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/Zxah68I.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Melody.mp3"
   },
   {
     "id": "stocking-elf",
@@ -120,7 +132,8 @@
     "emoji": "🧦",
     "description": "Stocking Elf",
     "role": "Organizing Christmas stockings and discovering one enormous stocking with no name.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/IVHEIWL.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Woolly.mp3"
   },
   {
     "id": "reindeer-trainer-elf",
@@ -128,7 +141,8 @@
     "emoji": "🦌",
     "description": "Reindeer Trainer Elf",
     "role": "Teaching a young reindeer how to fly before Christmas Eve.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/m3HcqaE.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Comet.mp3"
   },
   {
     "id": "navigator-elf",
@@ -136,7 +150,8 @@
     "emoji": "🧭",
     "description": "North Pole Navigator Elf",
     "role": "Preparing Santa's route when the magical Christmas map changes by itself.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/KugHLOh.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Compass.mp3"
   },
   {
     "id": "sleigh-repair-elf",
@@ -144,7 +159,8 @@
     "emoji": "🔧",
     "description": "Sleigh Repair Elf",
     "role": "Fixing Santa's sleigh after discovering an unusual problem with the runners.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/4xcs8m4.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Wrench.mp3"
   },
   {
     "id": "potion-elf",
@@ -152,7 +168,8 @@
     "emoji": "🧪",
     "description": "Christmas Potion Elf",
     "role": "Making a magical Christmas potion when the ingredients start disappearing.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/cADUuIa.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Bubbles.mp3"
   },
   {
     "id": "delivery-elf",
@@ -160,7 +177,8 @@
     "emoji": "📦",
     "description": "North Pole Delivery Elf",
     "role": "Organizing presents for delivery when one mysterious package appears without an address.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/oFxqzTf.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Parcel.mp3"
   },
   {
     "id": "tour-elf",
@@ -168,7 +186,8 @@
     "emoji": "🏰",
     "description": "North Pole Tour Elf",
     "role": "Giving a secret tour of the North Pole and revealing places children aren't normally allowed to see.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/hbtcHSo.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Guide.mp3"
   },
   {
     "id": "fortune-elf",
@@ -176,7 +195,8 @@
     "emoji": "🔮",
     "description": "Christmas Fortune Elf",
     "role": "Using a magical snow globe to discover what might happen on Christmas Eve.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/Z151ZJS.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Oracle.mp3"
   },
   {
     "id": "penguin-elf",
@@ -184,7 +204,8 @@
     "emoji": "🐧",
     "description": "Penguin Elf",
     "role": "Taking care of the North Pole penguins when one penguin escapes.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/KDJaX8n.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Waddle.mp3"
   },
   {
     "id": "arctic-animal-elf",
@@ -192,7 +213,8 @@
     "emoji": "🦊",
     "description": "Arctic Animal Elf",
     "role": "Helping lost Arctic animals find their way home before Christmas.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/LzXCwe0.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Frost.mp3"
   },
   {
     "id": "star-elf",
@@ -200,7 +222,8 @@
     "emoji": "🌟",
     "description": "Christmas Star Elf",
     "role": "Responsible for lighting the Christmas star when it suddenly becomes too dim.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/e5KlxJP.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Twinkle.mp3"
   },
   {
     "id": "clock-elf",
@@ -208,7 +231,8 @@
     "emoji": "⏰",
     "description": "Christmas Clock Elf",
     "role": "Watching the magical North Pole clock when it suddenly starts counting down to Christmas too quickly.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/C131chG.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Ticker.mp3"
   },
   {
     "id": "candle-elf",
@@ -216,7 +240,8 @@
     "emoji": "🕯️",
     "description": "Christmas Candle Elf",
     "role": "Protecting a magical Christmas candle that must stay lit until Christmas Eve.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/1LIriyZ.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Ember.mp3"
   },
   {
     "id": "secret-present-elf",
@@ -224,7 +249,8 @@
     "emoji": "🎁",
     "description": "Secret Present Elf",
     "role": "Guarding a mysterious present that nobody at the North Pole is allowed to open.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/iVUfa15.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Keeper.mp3"
   },
   {
     "id": "dream-elf",
@@ -232,7 +258,8 @@
     "emoji": "💤",
     "description": "Christmas Dream Elf",
     "role": "Helping children have magical Christmas dreams while dealing with a strange dream that escaped.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/8OQRolt.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Slumber.mp3"
   },
   {
     "id": "emergency-elf",
@@ -240,6 +267,7 @@
     "emoji": "🚨",
     "description": "North Pole Emergency Elf",
     "role": "Calling because something unexpected has happened at the North Pole and needs help solving it before Santa arrives.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/0tKLrQ7.png",
+     "audio_url": "https://github.com/NewSeed1/New-Seed-X/raw/refs/heads/main/Fizzle.mp3"
   }
 ]
