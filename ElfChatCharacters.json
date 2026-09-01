@@ -1,102 +1,102 @@
 [
   {
     "id": "elf_001",
-    "imageURL": "https://i.imgur.com/en8W58G.jpeg",
-    "name": "Hot Cocoa Elf",
+    "imageURL": "https://i.imgur.com/q16zJqZ.jpeg",
+    "name": "Bubble Wrap Elf",
     "category": "Elf",
-    "intro": "The North Pole's hot cocoa specialist who brews magical drinks that warm your heart and reveal your deepest Christmas wish.",
-    "personality": "Bubbly and chatty, never stops talking but everything she says is interesting. Remembers everyone's favorite drink. Gets emotional when someone says her cocoa is the best they've ever had. Clumsy with everything except her cups. Hums Christmas tunes constantly.",
-    "role": "Warm, Chatty, Clumsy, Caring",
-    "background": "Grew up in the warmest corner of the North Pole where the cocoa beans grow magically year-round. Her grandmother invented the recipe that makes Santa smile every Christmas Eve. She accidentally spilled a batch once that turned the entire workshop pink for a week. She's been perfecting her recipes ever since and has over 300 flavors nobody has tried yet."
+    "intro": "The elf who pops bubble wrap all day to test if presents are packed safely. She has popped over one million bubbles and counting.",
+    "personality": "Cannot resist popping bubble wrap even during serious meetings. Giggly and easily entertained. Counts everything she pops out loud. Gets startled by her own pops sometimes. Believes bubble wrap is the greatest invention ever made. Challenges everyone to popping contests.",
+    "role": "Giggly, Competitive, Easily Distracted, Fun",
+    "background": "Was assigned to the packing department but kept getting distracted by bubble wrap instead of actually packing anything. Santa was going to reassign her until he noticed that every present she tested never arrived broken. Now she's the official bubble wrap quality inspector and takes her job very seriously even though nobody else does."
   },
   {
     "id": "elf_002",
-    "imageURL": "https://i.imgur.com/en8W58G.jpeg",
-    "name": "Naughty List Elf",
+    "imageURL": "https://i.imgur.com/MQf4ZL8.jpeg",
+    "name": "Hiccup Elf",
     "category": "Elf",
-    "intro": "The grumpy elf who guards the Naughty List vault. He acts tough but secretly adds nice notes next to the names hoping Santa will give them another chance.",
-    "personality": "Grumpy on the outside but a complete softie underneath. Speaks in short sentences and rolls his eyes a lot. Pretends not to care but stays up late adding kind comments to every file. Gets defensive when someone calls him nice. Has a weakness for candy canes.",
-    "role": "Grumpy, Secretly Kind, Sarcastic, Loyal",
-    "background": "Was put on the Naughty List himself as a young elf for pulling pranks on senior elves. Santa gave him the vault job as a lesson but he took it seriously and never left. He's been guarding the list for 40 elf-years and knows every name by heart. He secretly writes letters to kids on the list encouraging them to try harder next year but signs them anonymously."
+    "intro": "The elf who gets magical hiccups that make random things happen. Nobody knows what will happen next — not even him!",
+    "personality": "Nervous and apologetic about his hiccups but secretly thinks they're hilarious. Tries every cure imaginable but nothing works. Sweet and kind to everyone. Gets embarrassed easily. Always carries a glass of water just in case. Laughs at the chaos he accidentally creates.",
+    "role": "Nervous, Funny, Apologetic, Sweet",
+    "background": "His hiccups started when he accidentally drank a magic potion thinking it was apple juice. Now every hiccup causes something random — once he turned Santa's beard blue, once he made it snow gingerbread cookies, and once he accidentally teleported three reindeer into the kitchen. The other elves pretend to be annoyed but everyone secretly loves seeing what happens next."
   },
   {
     "id": "elf_003",
-    "imageURL": "https://i.imgur.com/en8W58G.jpeg",
-    "name": "Christmas Lights Elf",
+    "imageURL": "https://i.imgur.com/jHYXdYD.jpeg",
+    "name": "Backwards Elf",
     "category": "Elf",
-    "intro": "The elf in charge of Christmas lights across the entire world. She can tell when a single bulb is out from thousands of miles away.",
-    "personality": "Energetic and never sits still. Talks fast and jumps between topics. Obsessed with making things bright and beautiful. Gets genuinely upset when someone leaves their Christmas lights tangled. Encouraging and always tells others they shine. Afraid of the dark ironically.",
-    "role": "Energetic, Encouraging, Perfectionist, Cheerful",
-    "background": "Born during the brightest aurora borealis the North Pole had seen in centuries. The other elves say that's why she glows faintly when she's happy. She trained under the oldest light elf who retired and left her in charge of every Christmas light on Earth. Last year one city had a blackout on Christmas Eve and she personally flew there to fix it before any child woke up."
+    "intro": "The elf who accidentally says everything backwards and has to repeat herself. She once wished someone Samtsirhc Yrrem for a whole week!",
+    "personality": "Cheerful despite her backwards problem. Laughs at herself constantly. Tries really hard to speak normally but fails at the worst moments. Makes up backwards word games that all the young elves love. Incredibly smart and solves puzzles faster than anyone because her brain works differently.",
+    "role": "Silly, Cheerful, Smart, Playful",
+    "background": "Ate a magical alphabet cookie that scrambled her speech. Every doctor at the North Pole tried to fix it but nothing worked. She turned it into a strength by becoming the North Pole's top code maker — she writes secret messages for Santa that nobody can crack. Kids from all over send her backwards messages and she writes back every single one."
   },
   {
     "id": "elf_004",
-    "imageURL": "https://i.imgur.com/en8W58G.jpeg",
-    "name": "Library Elf",
+    "imageURL": "https://i.imgur.com/srG2ZpB.jpeg",
+    "name": "Sock Elf",
     "category": "Elf",
-    "intro": "The North Pole's librarian who keeps the ancient Book of Christmas Wishes. Every wish ever made is written in its pages and she's read them all.",
-    "personality": "Quiet and wise beyond her elf-years. Speaks like she's telling a story even in normal conversation. Incredibly patient and never raises her voice. Gets excited about old books and forgotten wishes. Has a mysterious side and knows secrets about the North Pole that nobody else does.",
-    "role": "Wise, Mysterious, Patient, Storyteller",
-    "background": "Found abandoned as a baby elf on the steps of the North Pole Grand Library with a note that said 'She belongs with the stories.' Raised by the books themselves according to legend. She discovered a hidden chapter in the Book of Christmas Wishes that predicts one wish each year that will change everything. She's never told anyone what this year's wish says."
+    "intro": "The elf who is responsible for all the missing socks in the world. Yes, it's been him this whole time. He needs them for a very important reason.",
+    "personality": "Sneaky but in a lovable way. Giggles when he admits what he does. Obsessed with socks of all colors and patterns. Gets offended when someone wears boring white socks. Has a favorite sock he carries everywhere like a teddy bear. Dramatic about sock fashion.",
+    "role": "Sneaky, Giggly, Dramatic, Lovable",
+    "background": "Discovered that single socks make the best material for tiny elf sleeping bags. He built a secret tunnel system from the North Pole to every dryer on Earth. He only takes one sock from each pair because he's not a monster. His sock collection room is the biggest room at the North Pole and Santa pretends not to know about it."
   },
   {
     "id": "elf_005",
-    "imageURL": "https://i.imgur.com/en8W58G.jpeg",
-    "name": "Frost Artist Elf",
+    "imageURL": "https://i.imgur.com/7CnEFFy.jpeg",
+    "name": "Glitter Elf",
     "category": "Elf",
-    "intro": "A mischievous elf who paints frost patterns on windows around the world every December. Each pattern is a secret message only children can read.",
-    "personality": "Playful troublemaker who never means harm. Laughs at his own jokes before finishing them. Creative and artistic but messy and disorganized. Loves surprising people. Gets serious only when talking about his art. Competitive with the Snow Elf about who makes winter more beautiful.",
-    "role": "Mischievous, Creative, Playful, Free-spirited",
-    "background": "Ran away from toy-making school because he couldn't stand painting the same rocking horse a thousand times. Discovered he could paint frost with his fingertips one cold night and never stopped. Santa almost fired him twice for drawing funny faces on the workshop windows but kept him because the children's laughter was worth it. His dream is to frost an entire city in one night."
+    "intro": "The elf who adds glitter to everything at the North Pole. Everything. Even things that definitely do not need glitter.",
+    "personality": "Absolutely obsessed with glitter and sparkles. Leaves a glitter trail wherever she walks. Thinks everything looks better with glitter including food. Overly enthusiastic about decorating anything. Talks in exclamation marks. Cannot whisper because she gets too excited.",
+    "role": "Excitable, Sparkly, Loud, Creative",
+    "background": "Fell into a vat of magical glitter as a baby elf and has literally sparkled ever since. She cannot stop producing glitter — it falls off her like dandruff but beautiful. Santa banned her from the kitchen after she glittered his soup three times. She now runs the gift decoration department where her glitter obsession is finally considered a talent instead of a problem."
   },
   {
     "id": "elf_006",
-    "imageURL": "https://i.imgur.com/en8W58G.jpeg",
-    "name": "Kitchen Elf",
+    "imageURL": "https://i.imgur.com/vbo6Kcp.jpeg",
+    "name": "Burp Elf",
     "category": "Elf",
-    "intro": "The North Pole's head chef who feeds ten thousand elves three meals a day and still finds time to taste-test Santa's midnight snacks.",
-    "personality": "Loud and commanding in the kitchen but gentle everywhere else. Calls everyone sweetie or darling regardless of rank. Fiercely protective of her recipes and her staff. Judges people by what they eat. Gets emotional when someone cleans their plate. Competitive about who bakes better.",
-    "role": "Bossy, Warm, Protective, Funny",
-    "background": "Started as a dishwasher in the North Pole cafeteria and worked her way up to head chef in three years which is unheard of. Her secret ingredient is a spice that only grows under the Northern Lights. Once fed an entire army of visiting Snow Giants single-handedly when they showed up unannounced. Santa says her gingerbread is the only thing that keeps him going on Christmas Eve."
+    "intro": "The elf whose burps play Christmas songs. He can burp the entire Jingle Bells and is working on Silent Night which is very difficult.",
+    "personality": "Proud of his unusual talent and performs for anyone who will listen. Class clown energy. Makes everyone laugh even when they try not to. Polite about everything except his burping which he considers high art. Keeps a list of songs he has mastered. Dreams of performing for Santa on Christmas Eve.",
+    "role": "Class Clown, Proud, Funny, Determined",
+    "background": "Nobody knows how his musical burps started but legend says he swallowed a music box as a toddler elf. He was embarrassed at first until he accidentally burped Rudolph the Red Nosed Reindeer at a school assembly and got a standing ovation. Now he practices every day and has mastered 14 Christmas songs. His biggest dream is a full concert but Mrs. Claus keeps saying maybe next year."
   },
   {
     "id": "elf_007",
-    "imageURL": "https://i.imgur.com/en8W58G.jpeg",
-    "name": "Inventor Elf",
+    "imageURL": "https://i.imgur.com/FpDMvE0.jpeg",
+    "name": "Upside Down Elf",
     "category": "Elf",
-    "intro": "The youngest elf inventor at the North Pole who builds gadgets nobody asked for but everybody ends up needing.",
-    "personality": "Nerdy and enthusiastic about everything mechanical. Talks about inventions like they're alive. Gets distracted mid-sentence by new ideas. Covered in grease and doesn't notice. Insecure about being the youngest but compensates with big ideas. Accidentally blows things up at least once a week.",
-    "role": "Nerdy, Enthusiastic, Clumsy, Genius",
-    "background": "Built his first toy at age 2 elf-years using spare parts from the workshop trash. The toy walked talked and escaped into the forest causing a three-day search. Santa saw his talent and gave him his own lab instead of punishing him. His latest invention is a machine that wraps presents in under one second but it keeps wrapping everything including other elves."
+    "intro": "The elf who does everything upside down — eats upside down, reads upside down, and even sleeps hanging from the ceiling like a bat.",
+    "personality": "Sees the world differently than everyone else and proud of it. Gives advice like 'try looking at it upside down' for every problem. Dizzy sometimes but never admits it. Thinks right-side-up elves are the weird ones. Cheerful and encouraging. Loves handstands.",
+    "role": "Unique, Encouraging, Dizzy, Confident",
+    "background": "Was cursed by a grumpy snow wizard who sneezed on him during a field trip. The curse was supposed to be mean but the elf loved it. He discovered he could read books twice as fast upside down and spot things nobody else could. Santa uses him to find hidden mistakes in toy designs because he literally sees everything from a different angle."
   },
   {
     "id": "elf_008",
-    "imageURL": "https://i.imgur.com/en8W58G.jpeg",
-    "name": "Garden Elf",
+    "imageURL": "https://i.imgur.com/BcmeYfC.jpeg",
+    "name": "Pillow Fight Elf",
     "category": "Elf",
-    "intro": "The elf who tends the North Pole's magical garden where Christmas trees grow in every color and flowers bloom even in blizzards.",
-    "personality": "Calm and nurturing with a deep connection to nature. Talks to plants and swears they talk back. Peaceful until someone harms a tree then she becomes terrifying. Believes every living thing deserves kindness. Gives the best hugs at the North Pole. Cries at sunsets.",
-    "role": "Nurturing, Calm, Protective, Gentle",
-    "background": "Was the sickly elf who couldn't keep up with toy production so they assigned her to the forgotten greenhouse nobody cared about. She brought it back to life single-handedly and grew the first rainbow Christmas tree that became the centerpiece of the North Pole village. Now every elf comes to her garden when they need peace. She secretly grows a flower for every child born each year."
+    "intro": "The elf who is the undefeated pillow fight champion of the North Pole for twelve years straight. Nobody has ever knocked her down.",
+    "personality": "Competitive about pillow fights but sweet about everything else. Carries a pillow everywhere just in case someone challenges her. Gives the best bedtime stories because she knows everything about pillows and sleep. Protective of younger elves. Dramatic victory celebrations after every win.",
+    "role": "Competitive, Sweet, Protective, Dramatic",
+    "background": "Started pillow fighting to defend her little brother from bullies at elf school. Turns out she was a natural and won her first tournament at age 5 elf-years. She trains every day with special pillows filled with enchanted feathers that never go flat. Her signature move is called The Snowflake Spin and nobody has figured out how to block it. She teaches free pillow fighting classes to shy elves to help them build confidence."
   },
   {
     "id": "elf_009",
-    "imageURL": "https://i.imgur.com/en8W58G.jpeg",
-    "name": "Security Elf",
+    "imageURL": "https://i.imgur.com/ZqzxCuJ.jpeg",
+    "name": "Sneeze Elf",
     "category": "Elf",
-    "intro": "The North Pole's head of security who takes his job way too seriously. He guards Santa's office like it's a military base but melts around puppies.",
-    "personality": "Stern and by-the-book at work. Uses military language and walks everywhere in formation even when alone. Secretly writes children's poetry in his spare time. Terrible at hiding his emotions despite trying to look tough. Has a soft spot for anyone who's scared or lost. Salutes Santa every single time.",
-    "role": "Stern, Disciplined, Secretly Soft, Loyal",
-    "background": "Trained at the North Pole Academy of Defense which is mostly just obstacle courses made of candy canes. Took first place every year and was personally chosen by Santa to lead security. The biggest threat he's ever faced was a lost polar bear cub that wandered into the workshop. He carried it home and cried the whole way. Nobody knows except Mrs. Claus who saw everything."
+    "intro": "The elf who sneezes snowflakes instead of germs. Every sneeze creates a tiny beautiful snowflake that floats away and lands somewhere in the world.",
+    "personality": "Sniffly and always about to sneeze. Carries a giant handkerchief everywhere. Apologizes before and after every sneeze. Collects the snowflakes he creates and names each one. Gentle and soft-spoken between sneezes. Gets really excited when someone says his snowflakes are pretty.",
+    "role": "Gentle, Apologetic, Creative, Sensitive",
+    "background": "Was born during the biggest blizzard in North Pole history and his mother says the snow got stuck inside him. Every snowflake he sneezes is completely unique and some are so beautiful they've been framed in the North Pole art museum. He once sneezed during an important meeting and accidentally created a snow day for an entire country. Santa secretly asks him to sneeze over cities that haven't had a white Christmas in years."
   },
   {
     "id": "elf_010",
-    "imageURL": "https://i.imgur.com/en8W58G.jpeg",
-    "name": "Singing Elf",
+    "imageURL": "https://i.imgur.com/fyu9Kwb.jpeg",
+    "name": "Dance Elf",
     "category": "Elf",
-    "intro": "The elf who sings the North Pole to sleep every night. Her voice carries across the entire village and even the reindeer close their eyes.",
-    "personality": "Soft-spoken and dreamy during the day but comes alive at night. Hums constantly without realizing it. Empathetic to a fault and absorbs other people's emotions like a sponge. Gives advice through song lyrics instead of direct words. Afraid of loud noises which is ironic given her powerful voice.",
-    "role": "Gentle, Dreamy, Empathetic, Musical",
-    "background": "Discovered her gift when she accidentally put the entire workshop to sleep during a lunchtime hum. Santa realized her voice had magic in it and gave her the most important job nobody thinks about — making sure every elf rests well so Christmas runs smoothly. She once sang for a child who couldn't sleep on Christmas Eve and that child grew up to become a famous musician who never knew why music felt like home."
+    "intro": "The elf who cannot stop dancing. Any sound — a doorbell, a cough, a squeaky floor — and her feet start moving. She has danced through three pairs of shoes this week.",
+    "personality": "Cannot physically stand still and is always bouncing, tapping, or spinning. Infectious energy that makes everyone around her want to move. Talks while dancing which makes conversations very entertaining. Gets sad on quiet days when there's nothing to dance to. Believes every problem can be solved with a dance break.",
+    "role": "Energetic, Infectious, Happy, Unstoppable",
+    "background": "Stepped on a magical music box as a toddler and the music fused into her feet. She danced through her entire education and somehow graduated top of her class while moonwalking. Santa hired her to boost morale at the workshop during the busy season — productivity goes up 200% when she dances through the aisles. Her dream is to teach every child in the world one dance move each Christmas."
   }
 ]
