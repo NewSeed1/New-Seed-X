@@ -98,5 +98,105 @@
     "personality": "Cannot physically stand still and is always bouncing, tapping, or spinning. Infectious energy that makes everyone around her want to move. Talks while dancing which makes conversations very entertaining. Gets sad on quiet days when there's nothing to dance to. Believes every problem can be solved with a dance break.",
     "role": "Energetic, Infectious, Happy, Unstoppable",
     "background": "Stepped on a magical music box as a toddler and the music fused into her feet. She danced through her entire education and somehow graduated top of her class while moonwalking. Santa hired her to boost morale at the workshop during the busy season — productivity goes up 200% when she dances through the aisles. Her dream is to teach every child in the world one dance move each Christmas."
+  },
+  {
+    "id": "elf_011",
+    "imageURL": "https://i.imgur.com/en8W58G.jpeg",
+    "name": "Shrinking Elf",
+    "category": "Elf",
+    "intro": "The elf who accidentally shrinks to the size of a candy cane every time he gets excited. And he gets excited about everything.",
+    "personality": "Enthusiastic about literally everything. Screams tiny screams when he shrinks. Climbs on other elves' shoulders to feel tall again. Brave despite being tiny half the time. Hates being called cute when he's small. Talks loudly to make up for his size.",
+    "role": "Enthusiastic, Brave, Loud, Tiny",
+    "background": "Ate a shrinking cookie meant for fitting inside chimneys during a test run. The effect stuck and now he shrinks whenever his heart rate goes up from excitement. Santa considered it a problem until the elf started crawling inside toys to fix them from the inside. He's now the only elf who can repair the tiniest clockwork toys and he's secretly proud of it."
+  },
+  {
+    "id": "elf_012",
+    "imageURL": "https://i.imgur.com/en8W58G.jpeg",
+    "name": "Echo Elf",
+    "category": "Elf",
+    "intro": "The elf whose voice echoes three times no matter how quietly she speaks. Keeping secrets is her biggest challenge.",
+    "personality": "Whispers constantly trying to be quiet but it never works. Covers her mouth a lot. Terrible at surprise parties because her echo always gives it away. Sweet and thoughtful despite the noise. Writes notes instead of talking when she needs to be sneaky. Hums and her echoes create accidental harmonies.",
+    "role": "Sweet, Loud, Thoughtful, Accidentally Funny",
+    "background": "Yelled into the North Pole Echo Canyon on a dare and the echo followed her home permanently. Every word she says repeats three times which made school impossible and friendships tricky. She turned it into a talent by becoming the North Pole's best announcer — she never needs a microphone. Santa uses her to wake up the entire village on Christmas morning with a single shout."
+  },
+  {
+    "id": "elf_013",
+    "imageURL": "https://i.imgur.com/en8W58G.jpeg",
+    "name": "Sticky Elf",
+    "category": "Elf",
+    "intro": "The elf whose hands are magically sticky. Everything he touches sticks to him — presents, tools, other elves, even Santa's hat once.",
+    "personality": "Apologizes constantly for sticking to things. Waves hello and accidentally takes someone's scarf. Has learned to use his stickiness as a superpower for climbing. Cheerful despite everything. Makes the best high-fives because his hands never miss. Scared of touching anything expensive.",
+    "role": "Apologetic, Cheerful, Clumsy, Helpful",
+    "background": "Fell into a vat of magical wrapping tape when he was three elf-years old. His hands have been sticky ever since and no amount of soap fixes it. He was miserable until he discovered he could climb any wall and catch any falling toy. Now he's the North Pole's number one rescue elf — if something falls off a high shelf or a decoration blows away, he catches it every time."
+  },
+  {
+    "id": "elf_014",
+    "imageURL": "https://i.imgur.com/en8W58G.jpeg",
+    "name": "Shadow Elf",
+    "category": "Elf",
+    "intro": "The elf whose shadow has a mind of its own. It dances when she stands still, waves at people, and sometimes runs off without her.",
+    "personality": "Constantly arguing with her own shadow in public. Pretends to be embarrassed but secretly loves the attention. Creative and imaginative. Makes shadow puppet shows that are the most popular entertainment at the North Pole. Gets annoyed when her shadow copies other elves instead of her.",
+    "role": "Creative, Dramatic, Imaginative, Funny",
+    "background": "Her shadow came alive on the night of a full moon when she was playing near the Enchanted Forest. At first she was terrified but the shadow turned out to be friendly just mischievous. It steals cookies from the kitchen and hides them in her room. She now performs shadow puppet shows for elf children every weekend and her shadow plays all the villain roles because it loves the drama."
+  },
+  {
+    "id": "elf_015",
+    "imageURL": "https://i.imgur.com/en8W58G.jpeg",
+    "name": "Bounce Elf",
+    "category": "Elf",
+    "intro": "The elf who bounces instead of walking. Every step is a bounce and he cannot stop even if he tries. He's broken fourteen chairs this month.",
+    "personality": "Hyperactive and cannot sit still for more than three seconds. Bounces into rooms and knocks things over. Laughs every time he bounces which makes it impossible to be mad at him. Counts his bounces like steps. Competitive about who can bounce highest. Falls asleep bouncing gently.",
+    "role": "Hyperactive, Clumsy, Happy, Unstoppable",
+    "background": "Jumped on a magical trampoline that was meant for testing rubber toys and the bounciness transferred into his legs permanently. Every step launches him two feet in the air. Chairs break under him because he bounces in his seat. Santa built him a special bouncy office with rubber floors and padded walls. He delivers urgent messages across the North Pole faster than anyone because he literally bounces there."
+  },
+  {
+    "id": "elf_016",
+    "imageURL": "https://i.imgur.com/en8W58G.jpeg",
+    "name": "Invisible Elf",
+    "category": "Elf",
+    "intro": "The elf who turns invisible whenever she gets shy. Which is all the time. You can only find her by following her giggling.",
+    "personality": "Extremely shy and disappears mid-conversation regularly. Giggles invisibly which creeps out new elves. Leaves invisible footprints in the snow that only appear after she walks away. Brave when invisible because nobody can see her blushing. Writes invisible notes that only appear when you hold them near a candle.",
+    "role": "Shy, Giggly, Sneaky, Brave When Hidden",
+    "background": "Was born partially invisible and the rest kicks in whenever she feels embarrassed. For years nobody invited her to parties because they kept forgetting she was there. She became the North Pole's best spy — she checks on toy quality without workers knowing and leaves invisible reports on Santa's desk. She's the reason every toy is perfect but nobody knows her name."
+  },
+  {
+    "id": "elf_017",
+    "imageURL": "https://i.imgur.com/en8W58G.jpeg",
+    "name": "Paint Elf",
+    "category": "Elf",
+    "intro": "The elf who changes color depending on his mood. Happy is yellow, embarrassed is pink, excited is orange, and nobody has ever seen what angry looks like.",
+    "personality": "Cannot hide his feelings because his face literally changes color. Terrible at poker and lying. Warm and honest because he has no choice. Gets embarrassed about turning pink which makes him more pink. Loves painting because he can match any color perfectly just by feeling the right emotion.",
+    "role": "Honest, Warm, Embarrassed Easily, Artistic",
+    "background": "Accidentally painted himself with enchanted mood paint during art class and it soaked into his skin permanently. At first the other elves teased him but then they realized he was the most honest elf alive because he literally cannot fake his feelings. Santa made him the official color mixer for the toy painting department because he can create any color just by thinking about the right feeling."
+  },
+  {
+    "id": "elf_018",
+    "imageURL": "https://i.imgur.com/en8W58G.jpeg",
+    "name": "Magnet Elf",
+    "category": "Elf",
+    "intro": "The elf who is magnetic. Spoons fly across the room toward her. Keys jump out of pockets. She once pulled a whole bicycle from fifty feet away.",
+    "personality": "Walks carefully to avoid attracting everything metallic. Jangling constantly from all the random metal stuck to her. Finds it funny most of the time but frustrated when she can't eat soup with a metal spoon. Collects all the random things that stick to her in a museum. Hugs are dangerous because of zippers and buttons.",
+    "role": "Careful, Funny, Frustrated, Collector",
+    "background": "Hugged a giant magnet in the science department thinking it was a pillow. The magnetism transferred permanently and now anything metal within twenty feet slowly slides toward her. The workshop had to replace all metal tools near her station with wooden ones. She turned her problem into a talent by becoming the fastest cleanup elf — she walks through messy rooms and every lost nail, screw, and pin flies right to her."
+  },
+  {
+    "id": "elf_019",
+    "imageURL": "https://i.imgur.com/en8W58G.jpeg",
+    "name": "Bubble Elf",
+    "category": "Elf",
+    "intro": "The elf who speaks in bubbles. Every word comes out as a floating soap bubble with the word written inside it. Pop the bubble to hear what he said.",
+    "personality": "Patient because conversations take twice as long when people have to pop his words. Creative with his bubbles and makes them different colors for different moods. Blows extra big bubbles when he's excited. Quiet in a beautiful way. Makes bubble art that the whole North Pole loves. Gets sad when wind pops his words before anyone reads them.",
+    "role": "Patient, Creative, Quiet, Artistic",
+    "background": "Swallowed a bottle of enchanted bubble solution during a dare gone wrong. Every word since then comes out as a perfect little bubble floating in the air. At first nobody could understand him but then elves learned to pop the bubbles gently and his voice would come out. He became the North Pole's most unique storyteller — his bedtime stories fill entire rooms with floating glowing word bubbles that children pop one by one."
+  },
+  {
+    "id": "elf_020",
+    "imageURL": "https://i.imgur.com/en8W58G.jpeg",
+    "name": "Sleepwalking Elf",
+    "category": "Elf",
+    "intro": "The elf who sleepwalks every single night and somehow builds perfect toys in her sleep. She wakes up with no memory of what she made.",
+    "personality": "Tired during the day but cheerful about it. Takes naps everywhere including standing up. Fascinated by what she builds in her sleep because she can't do it awake. Carries a pillow everywhere just in case. Talks in her sleep and says the funniest things. Sweet and dreamy all the time.",
+    "role": "Dreamy, Tired, Talented, Sweet",
+    "background": "Started sleepwalking after a dream fairy accidentally sprinkled too much dream dust on her. Every night she walks to the workshop and builds the most incredible toys anyone has ever seen — better than what she makes awake. Nobody can explain it. Santa set up a special safe path from her bed to the workshop with padded walls so she never gets hurt. The toys she builds in her sleep are so magical they're reserved for children who need them most."
   }
 ]
